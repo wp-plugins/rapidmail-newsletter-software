@@ -11,9 +11,9 @@ Kostenloses Plugin zur Integration eines rapidmail Newsletter-Anmeldeformulars i
 
 == Description ==
 
-<a href="https://www.rapidmail.de/anmelden">rapidmail</a> ist die All-In-One E-Mail Marketing Software für Erstellung, Versand und Analyse von Newsletter-Kampagnen. Ganz einfach und intuitiv können Sie Mailings erstellen, Empfänger verwalten, Newsletter versenden und Ihre Erfolge messen.
+<a href="https://www.rapidmail.de/anmelden?pid=125&utm_source=wp-pluginseite&utm_medium=Plugin&utm_campaign=Wordpress">rapidmail</a> ist die All-In-One E-Mail Marketing Software für Erstellung, Versand und Analyse von Newsletter-Kampagnen. Ganz einfach und intuitiv können Sie Mailings erstellen, Empfänger verwalten, Newsletter versenden und Ihre Erfolge messen.
 
-<a href="https://www.rapidmail.de/anmelden">Jetzt kostenlos bei rapidmail anmelden!</a>
+<a href="https://www.rapidmail.de/anmelden?pid=125&utm_source=wp-pluginseite&utm_medium=Plugin&utm_campaign=Wordpress">Jetzt kostenlos bei rapidmail anmelden!</a>
 
 Mit dem Wordpress Newsletter Plugin können Sie das Anmeldeformular für Ihren Newsletter ganz einfach auf Ihrer Wordpress-Website integrieren und nach Ihren Wünschen platzieren. Sie entscheiden dabei selbst, ob Sie auch die Abonnentengewinnung über Kommentare zulassen wollen oder nicht. Die Überschrift des Plugins können Sie nach Ihren Wünschen gestalten.
 

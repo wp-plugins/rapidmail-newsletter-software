@@ -130,7 +130,7 @@
 
 		<div class="wrap">
 			<h2>Einstellungen › rapidmail</h2>
-			<p>Bitte hinterlegen Sie hier Ihre rapidmail API Zugangsdaten. <br />Wenn Sie noch kein Kunde bei rapidmail sind, können Sie sich hier kostenlos anmelden: <a href="https://www.rapidmail.de/anmelden" target="_blank">Jetzt kostenlos bei rapidmail anmelden!</a></p>
+			<p>Bitte hinterlegen Sie hier Ihre rapidmail API Zugangsdaten. <br />Wenn Sie noch kein Kunde bei rapidmail sind, können Sie sich hier kostenlos anmelden: <a href="https://www.rapidmail.de/anmelden?pid=125&utm_source=wp-plugin&utm_medium=Plugin&utm_campaign=Wordpress" target="_blank">Jetzt kostenlos bei rapidmail anmelden!</a></p>
 		</div>
 
 		<h3>Zugangsdaten hinterlegen</h3>
